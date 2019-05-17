@@ -1,0 +1,9 @@
+C:\Users\МукушевА.CORP\source\repos\ExchangeControlWork.WPF\ExchangeControlWork.WPF.DTO\bin\Debug\ExchangeControlWork.WPF.DTO.dll
+C:\Users\МукушевА.CORP\source\repos\ExchangeControlWork.WPF\ExchangeControlWork.WPF.DTO\bin\Debug\ExchangeControlWork.WPF.DTO.pdb
+C:\Users\МукушевА.CORP\source\repos\ExchangeControlWork.WPF\ExchangeControlWork.WPF.DTO\bin\Debug\Newtonsoft.Json.dll
+C:\Users\МукушевА.CORP\source\repos\ExchangeControlWork.WPF\ExchangeControlWork.WPF.DTO\bin\Debug\Newtonsoft.Json.xml
+C:\Users\МукушевА.CORP\source\repos\ExchangeControlWork.WPF\ExchangeControlWork.WPF.DTO\obj\Debug\ExchangeControlWork.WPF.DTO.csprojAssemblyReference.cache
+C:\Users\МукушевА.CORP\source\repos\ExchangeControlWork.WPF\ExchangeControlWork.WPF.DTO\obj\Debug\ExchangeControlWork.WPF.DTO.csproj.CoreCompileInputs.cache
+C:\Users\МукушевА.CORP\source\repos\ExchangeControlWork.WPF\ExchangeControlWork.WPF.DTO\obj\Debug\ExchangeControlWork.WPF.DTO.csproj.CopyComplete
+C:\Users\МукушевА.CORP\source\repos\ExchangeControlWork.WPF\ExchangeControlWork.WPF.DTO\obj\Debug\ExchangeControlWork.WPF.DTO.dll
+C:\Users\МукушевА.CORP\source\repos\ExchangeControlWork.WPF\ExchangeControlWork.WPF.DTO\obj\Debug\ExchangeControlWork.WPF.DTO.pdb

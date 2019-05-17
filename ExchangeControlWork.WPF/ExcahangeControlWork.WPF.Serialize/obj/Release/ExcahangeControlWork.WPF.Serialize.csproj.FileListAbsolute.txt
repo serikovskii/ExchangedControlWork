@@ -1,0 +1,11 @@
+C:\Users\МукушевА.CORP\source\repos\ExchangeControlWork.WPF\ExcahangeControlWork.WPF.Serialize\bin\Release\ExcahangeControlWork.WPF.Serialize.dll
+C:\Users\МукушевА.CORP\source\repos\ExchangeControlWork.WPF\ExcahangeControlWork.WPF.Serialize\bin\Release\ExcahangeControlWork.WPF.Serialize.pdb
+C:\Users\МукушевА.CORP\source\repos\ExchangeControlWork.WPF\ExcahangeControlWork.WPF.Serialize\bin\Release\ExchangeControlWork.WPF.DTO.dll
+C:\Users\МукушевА.CORP\source\repos\ExchangeControlWork.WPF\ExcahangeControlWork.WPF.Serialize\bin\Release\Newtonsoft.Json.dll
+C:\Users\МукушевА.CORP\source\repos\ExchangeControlWork.WPF\ExcahangeControlWork.WPF.Serialize\bin\Release\ExchangeControlWork.WPF.DTO.pdb
+C:\Users\МукушевА.CORP\source\repos\ExchangeControlWork.WPF\ExcahangeControlWork.WPF.Serialize\bin\Release\Newtonsoft.Json.xml
+C:\Users\МукушевА.CORP\source\repos\ExchangeControlWork.WPF\ExcahangeControlWork.WPF.Serialize\obj\Release\ExcahangeControlWork.WPF.Serialize.csprojAssemblyReference.cache
+C:\Users\МукушевА.CORP\source\repos\ExchangeControlWork.WPF\ExcahangeControlWork.WPF.Serialize\obj\Release\ExcahangeControlWork.WPF.Serialize.csproj.CoreCompileInputs.cache
+C:\Users\МукушевА.CORP\source\repos\ExchangeControlWork.WPF\ExcahangeControlWork.WPF.Serialize\obj\Release\ExcahangeControlWork.WPF.Serialize.csproj.CopyComplete
+C:\Users\МукушевА.CORP\source\repos\ExchangeControlWork.WPF\ExcahangeControlWork.WPF.Serialize\obj\Release\ExcahangeControlWork.WPF.Serialize.dll
+C:\Users\МукушевА.CORP\source\repos\ExchangeControlWork.WPF\ExcahangeControlWork.WPF.Serialize\obj\Release\ExcahangeControlWork.WPF.Serialize.pdb
